@@ -21,7 +21,7 @@
 
 | Programming Languages        | Frontend Development       | Backend Development         |
 |------------------------------|----------------------------|-----------------------------|
-| ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C](https://skillicons.dev/icons?i=c) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) | ![PHP](https://skillicons.dev/icons?i=php) |
+| ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) | ![PHP](https://skillicons.dev/icons?i=php) |
 |                              |                            |                             |
 | **Database Technologies**    | **Frameworks**             | **Developer Tools**         |
 | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![VS Code](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) |
