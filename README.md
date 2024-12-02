@@ -44,7 +44,9 @@
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/joshitha6?cardType=github&theme=github-dark&preferLogin=false&Background=00000000&Border=00000000" alt="My Awesome Stats" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=joshitha6&theme=transparent&hide_border=true" alt="GitHub Streak" />
+   <div align="center">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshitha6">
+</div>
   </a>
 </div>
 
