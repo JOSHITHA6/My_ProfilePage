@@ -8,8 +8,7 @@
 
 <div align="left">
 
-- 🌱 **About Me**: I'm a 3rd -year CES-AIML undergraduate student at GVPCE(A), passionate about software development, AI/ML, and creating impactful real-time applications.  
-- 📫 **Reach Me**: Shoot me an email at palavalasasaijoshitha2005@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/sai-joshitha-palavalasa)  
+- 🌱 **About Me**: I'm a 3rd -year CES-AIML undergraduate student at GVPCE(A), passionate about software development, AI/ML, and creating impactful real-time applications.   
 - 😄 **Fun Fact**: I turn coffee and code into innovation and creativity!  
 - 🌟 **Hobbies**: I love content writing, poetry, public speaking, cooking the code, and participating in hackathons.
 
