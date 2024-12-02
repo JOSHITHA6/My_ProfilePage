@@ -27,29 +27,21 @@
 | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![VS Code](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) |
 
 ---
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+</div>
 
 
 
-## 📊 GitHub Stats:
-
-<table width="100%" align="center">
-<tr>
-  <td>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YourGitHubUsername&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
-  </td>
-<td>
-  <img width="420em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="440em" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
-
----
 
 ## ✨ Holopin Badges:
-[![An image of @YourUsername's Holopin badges, which is a link to view their full Holopin profile]([https://holopin.me/YourUsername](https://www.holopin.io/@joshitha6#badges))]([https://holopin.io/YourUsername](https://hacktoberfest.com/profile/))
+[![An image of @JOSHITHA6 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/JOSHITHA6](https://www.holopin.io/@joshitha6#badges))]
 
 ---
 
