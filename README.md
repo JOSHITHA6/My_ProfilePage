@@ -9,9 +9,9 @@
 <div align="left">
 
 - 🌱 **About Me**: I'm a 3rd -year CES-AIML undergraduate student at GVPCE(A), passionate about software development, AI/ML, and creating impactful real-time applications.  
-- 📫 **Reach Me**: Shoot me an email at palavalasasaijoshitha@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/palavalasa-sai-joshitha)  
+- 📫 **Reach Me**: Shoot me an email at palavalasasaijoshitha2005@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/sai-joshitha-palavalasa)  
 - 😄 **Fun Fact**: I turn coffee and code into innovation and creativity!  
-- 🌟 **Hobbies**: I love content writing, poetry, public speaking, and engaging in hackathons.
+- 🌟 **Hobbies**: I love content writing, poetry, public speaking, cooking the code, and participating in hackathons.
 
 </div>
 
@@ -24,7 +24,7 @@
 | ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C](https://skillicons.dev/icons?i=c) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) | ![PHP](https://skillicons.dev/icons?i=php) |
 |                              |                            |                             |
 | **Database Technologies**    | **Frameworks**             | **Developer Tools**         |
-| ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite) |  ![VS Code](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) |
+| ![MySQL](https://skillicons.dev/icons?i=mysql) | ![VS Code](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) |
 
 ---
 
@@ -49,7 +49,7 @@
 ---
 
 ## ✨ Holopin Badges:
-[![An image of @YourUsername's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/YourUsername)](https://holopin.io/YourUsername)
+[![An image of @YourUsername's Holopin badges, which is a link to view their full Holopin profile]([https://holopin.me/YourUsername](https://www.holopin.io/@joshitha6#badges))]([https://holopin.io/YourUsername](https://hacktoberfest.com/profile/))
 
 ---
 
