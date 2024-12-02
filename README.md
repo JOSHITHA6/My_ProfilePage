@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=100&center=true&width=1000&lines=Namaste+!+Welcome+to+my+Github+page)](https://git.io/typing-svg)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=100&center=true&width=1000&color=FF69B4&lines=Namaste+!+Welcome+to+my+Github+page)](https://git.io/typing-svg)
 <h1 align="center"> Hello! I'm <a href="https://www.linkedin.com/in/palavalasa-sai-joshitha">Palavalasa Sai Joshitha</a></h1>
 <h3 align="center">A Passionate Undergrad Exploring AI, ML, Web Development, and Beyond</h3>
 
