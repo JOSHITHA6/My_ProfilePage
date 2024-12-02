@@ -41,7 +41,7 @@
 
 
 ## ✨ Holopin Badges:
-[![An image of @JOSHITHA6 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/JOSHITHA6](https://www.holopin.io/@joshitha6#badges))]
+[![An image of @joshitha6 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/JOSHITHA6](https://www.holopin.io/@joshitha6#badges))]
 
 ---
 
