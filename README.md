@@ -38,17 +38,12 @@
 [![An image of @joshitha6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@joshitha6#)](https://holopin.io/@joshitha6#)
 
 
+
 ## 📊 GitHub Stats:
 <div align="left">
   <a href="https://git.io/awesome-stats-card">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/joshitha6?cardType=github&theme=github-dark&preferLogin=false&Background=00000000&Border=00000000" alt="My Awesome Stats" />
   </a>
-  <a href="https://git.io/streak-stats">
-   <div align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshitha6">
-</div>
-  </a>
-</div>
 
 ---
 
