@@ -3,8 +3,8 @@
 <h1 align="center"> Hello! I'm <a href="https://www.linkedin.com/in/palavalasa-sai-joshitha">Palavalasa Sai Joshitha</a></h1>
 <h3 align="center">A Passionate Undergrad Exploring AI, ML, Web Development, and Beyond</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)](https://github.com/YourGitHubUsername/)
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/JOSHITHA6?label=Follow&style=social)](https://github.com/JOSHITHA6/)
+![Profile Views](https://komarev.com/ghpvc/?username=JOSHITHA6&color=blue)
 
 <div align="left">
 
